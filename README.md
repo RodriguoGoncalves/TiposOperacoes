@@ -17,7 +17,7 @@ Nesta seção iremos estudar:
 ## Números:
 * **Números**
 * **Operadores**
-* 
+
 ## Strings
 
 ## Listas de dicionários:
