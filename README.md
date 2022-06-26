@@ -11,7 +11,7 @@ Template para portfólio de Data Science
 <sub>*Analista de Banco de Dados* Júnior</sub>
 
 ## Para voltar à pagina principal [clique aqui](https://github.com/RodriguoGoncalves/Sigmoidal_data_science)
-
+## Para voltar à pagina principal aos módulos [clique aqui](https://github.com/RodriguoGoncalves/PythondoZeroPrimeiraVersao)
 Nesta seção iremos estudar:
 
 ## Números:
