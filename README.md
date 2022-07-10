@@ -20,10 +20,5 @@ Nesta seção iremos estudar:
 
 ## Strings
 
-* ## Listas de dicionários:
-* **Listas**
-* **Dicionários**
-
-## Tuplas
-
+## Listas
 
