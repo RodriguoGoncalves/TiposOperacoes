@@ -22,3 +22,4 @@ Nesta seção iremos estudar:
 
 ## Listas
 
+*  **Clique aqui para acessar o google colab:** https://abre.ai/tiposoperac
